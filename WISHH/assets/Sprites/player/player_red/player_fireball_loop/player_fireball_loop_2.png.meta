@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0eefb2f6-ad27-480b-9278-eeead9866926",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 32,
+  "height": 32,
+  "platformSettings": {},
+  "subMetas": {
+    "player_fireball_loop_2": {
+      "ver": "1.0.4",
+      "uuid": "7c802712-7f6c-49e5-b5d0-b9f68c6d8a8f",
+      "rawTextureUuid": "0eefb2f6-ad27-480b-9278-eeead9866926",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 10,
+      "width": 30,
+      "height": 12,
+      "rawWidth": 32,
+      "rawHeight": 32,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

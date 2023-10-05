@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hurt",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3,
+  "sample": 1,
+  "speed": 5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "147312ae-f50b-4a26-af1a-7ba319dc0962"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "0a5ffa10-eb17-49cb-9ab9-c9118f28601a"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "5341636e-6cc4-45b6-b26c-06ab2b9abd80"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

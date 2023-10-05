@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ice_down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 5,
+  "sample": 1,
+  "speed": 12,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "16634632-51d9-4fe4-b3a1-3cd910f6d2d5"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "f992dd2e-dab6-4b75-9f1c-6c5c5dce75c3"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "a7948fa7-784d-4371-bc5f-0a0dcca49328"
+            }
+          },
+          {
+            "frame": 3,
+            "value": {
+              "__uuid__": "67652cd8-427c-47f9-a5f0-93d2d7af2e94"
+            }
+          },
+          {
+            "frame": 4,
+            "value": {
+              "__uuid__": "3f66e71b-aeb3-4656-a24f-0d16cf40fbd0"
+            }
+          }
+        ]
+      },
+      "cc.PhysicsBoxCollider": {
+        "size": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 0,
+              "height": 0
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
